@@ -1,0 +1,275 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: #210E09;
+
+}
+
+.header{
+    width: 1302px;
+    height: 51px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header img{
+    width: 157.89px;
+    height: 40px;
+    top: 6px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.header ul li {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-top: 15px;
+    display: inline-block;
+    font-family: Stolzl;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #fff;
+}
+
+.header .btn{
+    width: 188px;
+    height:51px;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px 0px 0px 0px;
+    border: 2px solid #D5621D;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+}
+/* end of header */
+/* slider from here  */
+
+.body_slider{
+    display: flex;
+    margin: auto;
+    width: 1296px;
+    height: 542px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.body_slider .body_slider_half{
+    width: 856px;
+    height: 540px;
+    background: url("Rectangle\ 30.png");
+    border: 5px solid yellow;
+}
+.body_slider_half .btn_main{
+    width: 154px;
+    height: 44px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top: 301px;
+    margin-left: 60px;
+}
+.body_slider_half .slid_main  {
+    margin-left: 60px;
+    color: #fff;
+    background: none !important;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.body_slider_second{
+    width: 416px;
+    height: 542;
+}
+
+.body_slider_second .plugin_url a{
+    border: 1px solid;
+    padding: 12px 10px 7px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.body_slider_third{
+  width:244px ;
+  height: 38px;
+  margin:100px auto;
+}
+
+.body_slider_third .plugin_url a{
+  border-radius: 5px;
+  left: 189px;
+  padding: 10px 20px 7px 20px;
+  text-decoration: none;
+  gap: 10px;
+  color: #fff;
+  
+}
+
+.inside{
+  color: #fff;
+  margin-top:25px auto;
+}
+
+/* end of header */
+/* slider from here  */
+
+
+.body_slider_second .plugin_url a{
+    border: 1px solid;
+    padding: 12px 10px 7px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+/*  */
+*{
+    background-color: #210E09;
+    padding: 0%;
+    margin: 0%;
+}
+.mini_cont{
+    display: flex;
+    width: 1076px;
+    height: 612px;
+    margin-top: 80px;
+    margin-left: 110px;
+    
+  }
+  
+  .t_pos{
+    display: flex;
+    width: 486px;
+    height: 111px;
+    padding: 10px;
+    margin: 15px;
+    
+  }
+  
+  .t_pos_image{
+    width: 110px;
+    height: 110px;
+  }
+  
+  .t_pos_text{
+    width: 351px;
+    height: 111px;
+    margin: 10px;
+  }
+  .t_pos_text ul li{
+  text-decoration: none!important;
+  color: #fff;
+  }
+  ul li{
+    line-height: 25px;
+    text-decoration: none;
+  }
+  
+  ul .li_one{
+    font-family: Gotham Pro;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0.05em;
+    color: #fff;
+  }
+  
+  .t_price{
+    color: #D5621D!important;
+    text-decoration: none;
+  }
+  
+  .t_btn{
+    display: absolute;
+    width: 84px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #D5621D;  
+    background: none;
+    color: #fff;
+    height: 38px!important;
+    width: 84px;
+  
+  }
+
+.finishing{
+    width: 171px;
+    height: 57px;
+    margin-top: 40px;
+    left: 540px;
+    position: absolute;
+    padding: 15px 30px 15px 30px;
+    gap: 10px;
+    border-radius: 5px;
+}    
+
+.zar{
+    position: absolute;
+    width: 260px;
+    height: 38px;
+    top: 1750px;
+    left: 100px;
+    padding: 10px 20px 7px 20px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.col-lg-6{
+    color: #fff;
+    width: 300px;
+    position: absolute;
+    left: 1px;
+    margin-top: 40px;
+}
+.sear1{
+    width: 156px;
+    height: 51px;
+    border:2px solid #D5621D;
+    color: #fff;
+    position: absolute;
+    left: 65px;
+    margin-top: 35px;
+}
+.gitara{
+    width: 416px;
+    height: 500px;
+    position: absolute;
+    left: 440px;
+    margin-top: 230px;
+}
+
+.people{
+    position: absolute;
+    left: 900px;
+    width: 260px;
+    height: 38px;
+    top: 1750px;
+    padding: 10px 20px 7px 20px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+}
+.guys{
+    color: #fff;
+    width: 300px;
+    position: absolute;
+    left: 10px;
+    margin-top: 40px;
+}
+
+.sear2{
+    width: 156px;
+    height: 51px;
+    border:2px solid #D5621D;
+    color: #fff;
+    position: absolute;
+    left: 65px;
+    margin-top: 54.5px;
+}
