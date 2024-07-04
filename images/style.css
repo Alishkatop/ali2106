@@ -308,7 +308,9 @@
     color: #fff;
     position: absolute;
     margin-top: 1210px;
-    right: 234px;
+    right: 105px;
+    width: 415px;
+    height: 96px;
 }
 
 .kon{
@@ -362,4 +364,49 @@
     position: absolute;
     margin-top: 1655px;
     left: 1165px;
+}
+
+.place{
+    position: absolute;
+    margin-top: 2100px;
+    left: 580px;
+}
+
+.kontact{
+    width: 623px;
+    height: 60px;
+    color: #fff;
+    position: absolute;
+    margin-top: 50px;
+    left: 30px;
+}
+
+.map1{
+    width: 856px;
+    height: 656px;
+    margin-top: 2350px;
+    position: absolute;
+    left: 520px;
+}
+
+.adress{
+    position: absolute;
+    margin-top: 2350px;
+    left: 80px;
+}
+.where{
+ position: absolute;
+ margin-top: 3000px;
+ left: 130px;
+ color: #fff;
+ line-height: 50px;
+}
+
+.where2{
+  position: absolute;
+  margin-top: 3350px;
+  left: 130px;
+  line-height: 50px;
+  color: #fff;
+  background-color:;
 }
